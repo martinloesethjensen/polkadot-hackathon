@@ -1,0 +1,117 @@
+{
+  "contract": {
+    "authors": [
+      "unknown"
+    ],
+    "name": "counter",
+    "version": "0.0.1"
+  },
+  "metadataVersion": "0.1.0",
+  "source": {
+    "compiler": "solang 0.1.4",
+    "hash": "0xe1a45c90972debd76dfff1c4eb0ea52106a4417e2553356da9034274bb437b03",
+    "language": "Solidity 0.1.4"
+  },
+  "spec": {
+    "constructors": [
+      {
+        "args": [
+          {
+            "name": "initvalue",
+            "type": {
+              "display_name": [
+                "u32"
+              ],
+              "type": 1
+            }
+          }
+        ],
+        "docs": [
+          "Constructor that initializes the `int32` value to the given `init_value`.\n\n"
+        ],
+        "name": "new",
+        "selector": "0xe9819539"
+      }
+    ],
+    "events": [],
+    "messages": [
+      {
+        "args": [],
+        "docs": [
+          "Simply returns the current value of our `uint32`.\n\n"
+        ],
+        "mutates": false,
+        "name": "get",
+        "return_type": {
+          "display_name": [
+            "u32"
+          ],
+          "type": 1
+        },
+        "selector": "0x6d4ce63c"
+      },
+      {
+        "args": [
+          {
+            "name": "by",
+            "type": {
+              "display_name": [
+                "u32"
+              ],
+              "type": 1
+            }
+          }
+        ],
+        "docs": [
+          "This decrements the value by `by`, but only if value is above 0.\n\n"
+        ],
+        "mutates": true,
+        "name": "decr",
+        "return_type": null,
+        "selector": "0x32474095"
+      },
+      {
+        "args": [
+          {
+            "name": "by",
+            "type": {
+              "display_name": [
+                "u32"
+              ],
+              "type": 1
+            }
+          }
+        ],
+        "docs": [
+          "This increments the value by `by`.\n\n"
+        ],
+        "mutates": true,
+        "name": "incr",
+        "return_type": null,
+        "selector": "0x2058083d"
+      }
+    ]
+  },
+  "storage": {
+    "struct": {
+      "fields": [
+        {
+          "layout": {
+            "cell": {
+              "key": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "ty": 1
+            }
+          },
+          "name": "value"
+        }
+      ]
+    }
+  },
+  "types": [
+    {
+      "def": {
+        "primitive": "u32"
+      }
+    }
+  ]
+}
