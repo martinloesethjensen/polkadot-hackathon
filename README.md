@@ -1,13 +1,11 @@
 # polkadot-hackathon
 
-## Running locally
+## Addresses
 
-```sh
-solang flipper.sol
-```
+### KSM
 
-### Running with Docker
+`Ghv4ACMYE2YF5MBSAcvSA1TGSSasULdRTz64zZBqfvN8Gxf`
 
-```sh
-docker run --rm -it -v $(pwd):/sources hyperledgerlabs/solang -v -o /sources /sources/flipper.sol
-```
+### DOT
+
+`158bYB7YmeH5vxYFd6rsgMUbyU9zm75b3aspqdGauxjPZTi1`
