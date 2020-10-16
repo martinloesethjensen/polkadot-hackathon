@@ -1,117 +1,134 @@
 {
-  "contract": {
-    "authors": [
-      "unknown"
+  "registry": {
+    "strings": [
+      "storage",
+      "value",
+      "u32",
+      "Storage",
+      "new",
+      "initvalue",
+      "incr",
+      "by",
+      "decr",
+      "get",
+      "counter"
     ],
-    "name": "counter",
-    "version": "0.0.1"
-  },
-  "metadataVersion": "0.1.0",
-  "source": {
-    "compiler": "solang 0.1.4",
-    "hash": "0xe1a45c90972debd76dfff1c4eb0ea52106a4417e2553356da9034274bb437b03",
-    "language": "Solidity 0.1.4"
-  },
-  "spec": {
-    "constructors": [
+    "types": [
       {
-        "args": [
-          {
-            "name": "initvalue",
-            "type": {
-              "display_name": [
-                "u32"
-              ],
-              "type": 1
-            }
-          }
-        ],
-        "docs": [
-          "Constructor that initializes the `int32` value to the given `init_value`.\n\n"
-        ],
-        "name": "new",
-        "selector": "0xe9819539"
-      }
-    ],
-    "events": [],
-    "messages": [
-      {
-        "args": [],
-        "docs": [
-          "Simply returns the current value of our `uint32`.\n\n"
-        ],
-        "mutates": false,
-        "name": "get",
-        "return_type": {
-          "display_name": [
-            "u32"
-          ],
-          "type": 1
+        "id": {
+          "custom.name": 1,
+          "custom.namespace": [],
+          "custom.params": []
         },
-        "selector": "0x6d4ce63c"
+        "def": {
+          "struct.fields": []
+        }
       },
       {
-        "args": [
-          {
-            "name": "by",
-            "type": {
-              "display_name": [
-                "u32"
-              ],
-              "type": 1
-            }
-          }
-        ],
-        "docs": [
-          "This decrements the value by `by`, but only if value is above 0.\n\n"
-        ],
-        "mutates": true,
-        "name": "decr",
-        "return_type": null,
-        "selector": "0x32474095"
-      },
-      {
-        "args": [
-          {
-            "name": "by",
-            "type": {
-              "display_name": [
-                "u32"
-              ],
-              "type": 1
-            }
-          }
-        ],
-        "docs": [
-          "This increments the value by `by`.\n\n"
-        ],
-        "mutates": true,
-        "name": "incr",
-        "return_type": null,
-        "selector": "0x2058083d"
+        "id": "u32",
+        "def": "builtin"
       }
     ]
   },
   "storage": {
-    "struct": {
-      "fields": [
-        {
-          "layout": {
-            "cell": {
-              "key": "0x0000000000000000000000000000000000000000000000000000000000000000",
-              "ty": 1
+    "struct.type": 1,
+    "struct.fields": [
+      {
+        "name": 4,
+        "layout": {
+          "struct.type": 1,
+          "struct.fields": [
+            {
+              "name": 2,
+              "layout": {
+                "range.offset": "0x0000000000000000000000000000000000000000000000000000000000000000",
+                "range.len": "1",
+                "range.elem_type": 2
+              }
             }
-          },
-          "name": "value"
+          ]
         }
-      ]
-    }
-  },
-  "types": [
-    {
-      "def": {
-        "primitive": "u32"
       }
-    }
-  ]
+    ]
+  },
+  "contract": {
+    "name": 11,
+    "constructors": [
+      {
+        "name": 5,
+        "selector": "[\"0xE9\",\"0x81\",\"0x95\",\"0x39\"]",
+        "docs": [
+          "Constructor that initializes the `int32` value to the given `init_value`."
+        ],
+        "args": [
+          {
+            "name": 6,
+            "type": {
+              "ty": 2,
+              "display_name": [
+                3
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "name": 7,
+        "selector": "[\"0x20\",\"0x58\",\"0x08\",\"0x3D\"]",
+        "docs": [
+          "This increments the value by `by`."
+        ],
+        "mutates": true,
+        "args": [
+          {
+            "name": 8,
+            "type": {
+              "ty": 2,
+              "display_name": [
+                3
+              ]
+            }
+          }
+        ],
+        "return_type": null
+      },
+      {
+        "name": 9,
+        "selector": "[\"0x32\",\"0x47\",\"0x40\",\"0x95\"]",
+        "docs": [
+          "This decrements the value by `by`, but only if value is above 0."
+        ],
+        "mutates": true,
+        "args": [
+          {
+            "name": 8,
+            "type": {
+              "ty": 2,
+              "display_name": [
+                3
+              ]
+            }
+          }
+        ],
+        "return_type": null
+      },
+      {
+        "name": 10,
+        "selector": "[\"0x6D\",\"0x4C\",\"0xE6\",\"0x3C\"]",
+        "docs": [
+          "Simply returns the current value of our `uint32`."
+        ],
+        "mutates": false,
+        "args": [],
+        "return_type": {
+          "ty": 2,
+          "display_name": [
+            3
+          ]
+        }
+      }
+    ]
+  }
 }
