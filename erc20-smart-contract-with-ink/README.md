@@ -8,6 +8,8 @@ Followed this example to [build an erc20 with ink](https://substrate.dev/substra
 
 ## Guide
 
+Build erc20 Contract by navigating to `erc20` and the instructions on [building your contract](https://substrate.dev/substrate-contracts-workshop/#/0/building-your-contract)
+
 1. Run the node first.
 2. Go to [polkadot app](https://polkadot.js.org/apps/#/contracts).
 3. "Upload WASM" with [erc20.wasm](erc20/target/erc20.wasm) and put in [metadata.json](erc20/target/metadata.json) as "contract ABI".
