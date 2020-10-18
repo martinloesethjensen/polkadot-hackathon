@@ -1,7 +1,6 @@
 # 🧑‍💻 [INTERMEDIATE CHALLENGE] Smart contracts - write an ERC-20 smart contract with ink!
 
 [My Substrate node with contracts pallet repo](https://github.com/martinloesethjensen/substrate-node)
-[Front-End repo](https://github.com/martinloesethjensen/substrate-front-end)
 
 ERC-20 contract is from this [ink example](https://github.com/paritytech/ink/tree/master/examples/erc20)
 
