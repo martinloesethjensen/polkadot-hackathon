@@ -7,10 +7,10 @@
       "Storage",
       "new",
       "initvalue",
-      "incr",
-      "by",
-      "decr",
       "get",
+      "decr",
+      "by",
+      "incr",
       "counter"
     ],
     "types": [
@@ -76,46 +76,6 @@
     "messages": [
       {
         "name": 7,
-        "selector": "[\"0x20\",\"0x58\",\"0x08\",\"0x3D\"]",
-        "docs": [
-          "This increments the value by `by`."
-        ],
-        "mutates": true,
-        "args": [
-          {
-            "name": 8,
-            "type": {
-              "ty": 2,
-              "display_name": [
-                3
-              ]
-            }
-          }
-        ],
-        "return_type": null
-      },
-      {
-        "name": 9,
-        "selector": "[\"0x32\",\"0x47\",\"0x40\",\"0x95\"]",
-        "docs": [
-          "This decrements the value by `by`, but only if value is above 0."
-        ],
-        "mutates": true,
-        "args": [
-          {
-            "name": 8,
-            "type": {
-              "ty": 2,
-              "display_name": [
-                3
-              ]
-            }
-          }
-        ],
-        "return_type": null
-      },
-      {
-        "name": 10,
         "selector": "[\"0x6D\",\"0x4C\",\"0xE6\",\"0x3C\"]",
         "docs": [
           "Simply returns the current value of our `uint32`."
@@ -128,6 +88,46 @@
             3
           ]
         }
+      },
+      {
+        "name": 8,
+        "selector": "[\"0x32\",\"0x47\",\"0x40\",\"0x95\"]",
+        "docs": [
+          "This decrements the value by `by`, but only if value is above 0."
+        ],
+        "mutates": true,
+        "args": [
+          {
+            "name": 9,
+            "type": {
+              "ty": 2,
+              "display_name": [
+                3
+              ]
+            }
+          }
+        ],
+        "return_type": null
+      },
+      {
+        "name": 10,
+        "selector": "[\"0x20\",\"0x58\",\"0x08\",\"0x3D\"]",
+        "docs": [
+          "This increments the value by `by`."
+        ],
+        "mutates": true,
+        "args": [
+          {
+            "name": 9,
+            "type": {
+              "ty": 2,
+              "display_name": [
+                3
+              ]
+            }
+          }
+        ],
+        "return_type": null
       }
     ]
   }
