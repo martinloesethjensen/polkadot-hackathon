@@ -8,7 +8,7 @@
 
 ## Intro
 
-ERC-20 contract is from this [ink example](https://github.com/paritytech/ink/tree/master/examples/erc20)
+ERC-20 contract is from this [ink example](https://substrate.dev/substrate-contracts-workshop/#/2/transferring-tokens)
 
 Followed this example to [build an erc20 with ink](https://substrate.dev/substrate-contracts-workshop/#/2/introduction)
 
