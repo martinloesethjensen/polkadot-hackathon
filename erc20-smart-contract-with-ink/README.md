@@ -4,15 +4,11 @@
 
 [My Substrate node with contracts pallet repo](https://github.com/martinloesethjensen/substrate-node)
 
-[My front-end repo](https://github.com/martinloesethjensen/substrate-front-end)
-
 ## Intro
 
 ERC-20 contract is from this [ink example](https://substrate.dev/substrate-contracts-workshop/#/2/transferring-tokens)
 
 Followed this example to [build an erc20 with ink](https://substrate.dev/substrate-contracts-workshop/#/2/introduction)
-
-Followed this to make the front-end interact with the [contracts api](https://polkadot.js.org/docs/api-contracts)
 
 ## Guide
 
