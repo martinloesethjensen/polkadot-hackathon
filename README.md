@@ -12,10 +12,79 @@
 
 -----------------------------------------
 
+## Challenges
+
+### Challenge 1
+
+- [[BEGINNER CHALLENGE] Deploying Solidity Contract On Plasm Network V1](https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/6/100023960)
+
+- [Solidity Contract on Plasm Network](plasm-network-contract)
+
+### Challenge 2
+
+- [[BEGINNER CHALLENGE] Launch A Local Substrate Development Chain](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17/100023943)
+
+- [Local Substrate Development Chain](local-substrate-development-chain)
+
+### Challenge 3
+
+- [[BEGINNER CHALLENGE] Run A Private Substrate Network](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942)
+
+- [Private Substrate Network](run-private-substrate-network)
+
+### Challenge 4
+
+- [[BEGINNER CHALLENGES] Play With Westend](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941)
+
+- [Westend](westend)
+
+### Challenge 5
+
+- [[BEGINNER CHALLENGES] Front-End Javascript](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940)
+
+- [Front-end js submission README](front-end-js-challenge/README.md)
+
+### Challenge 6
+
+- [[BEGINNER CHALLENGES] Back-End Javascript](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/13/100023939)
+
+- [Back-end js submission](back-end-js-challenge)
+
+### Challenge 7
+
+- [[BEGINNER CHALLENGE] Run A Kusama Or Polkadot Node And Add It To Telemetry](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938)
+
+- [Kusama telemetry](kusama-telemetry)
+
+### Challenge 8
+
+- [[BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937)
+
+- [Identity on Kusama dev](identity-on-kusama-development-version)
+
+### Challenge 9
+
+- [[INTERMEDIATE CHALLENGE] Forkless Upgrades](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932)
+
+- [Forkless Upgrade submission](forkless-upgrade-challenge)
+
+### Challenge 10
+
+- [[ECOSYSTEM CHALLENGE] Enable NFT Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951)
+
+- [Runtime with orml-nft included](nft-support-challenge)
+
+### Challenge 11
+
+- [[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935)
+
+- [ERC20 Smart Contract with Ink!](erc20-smart-contract-with-ink)
+
+-----------------------------------------
+
 ![](https://user-images.githubusercontent.com/48550657/95865108-8f7b9b80-0d66-11eb-97c5-e52360f196f8.png)
 
-
-# [Hello World! by Polkadot](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)
+## [Hello World! by Polkadot](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)
 
 **Gitcoin has integrated [Polkadot](https://polkadot.network/) and [Kusama](https://kusama.network/) tokens (DOT and KSM) into its tech stack**, making them one of the first full integrations outside of the Ethereum ecosystem.
 
@@ -23,7 +92,7 @@ To celebrate the integration on Gitcoin, we are organising **[Hello World! by Po
 
 **[Check out the kick-off webinar for more details and information.](https://www.crowdcast.io/e/gitcoin-hello-world-by-polkadot)**
 
-## Challenges and prizes
+### Challenges and prizes
 
 The challenges are in four categories: (1) Beginner, (2) Intermediate, (3) Advanced, and (4) Ecosystem. The first three are written specifically for Polkadot and Kusama, whereas the Ecosystem category is made up of challenges created by Polkadot ecosystem projects. Challenge payouts are capped at 50, meaning that only the first fifty valid submissions will receive a payout.
 
@@ -34,11 +103,11 @@ The challenges are in four categories: (1) Beginner, (2) Intermediate, (3) Advan
 | Advanced  | 4  | 10 DOT  | 50  |
 | Ecosystem  | 8   | 5 DOT  | 50  |
 
-### **In addition, there is an EXTRA PRIZE of 150 DOT for the first 50 that manage to complete 18 or more challenges.**
+#### **In addition, there is an EXTRA PRIZE of 150 DOT for the first 50 that manage to complete 18 or more challenges.**
 
 Everyone successfully solving any challenge and receiving a payout will also get an awesome piece of Polkadot swag as well as a Kusama-based NFT, issued via [RMRK](https://rmrk.app/).
 
-## Deadlines
+### Deadlines
 
 - Open registrations: October 8th
 - Challenges go live: October 15th
@@ -48,4 +117,4 @@ Everyone successfully solving any challenge and receiving a payout will also get
 
 -----------------------------------------
 
-## [Head over to Hello World! by Polkadot and solve some awesome challenges!](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)
+### [Head over to Hello World! by Polkadot and solve some awesome challenges!](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)
