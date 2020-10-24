@@ -80,6 +80,48 @@
 
 - [ERC20 Smart Contract with Ink!](erc20-smart-contract-with-ink)
 
+### Challenge 12
+
+- [[ECOSYSTEM CHALLENGE] Enable Multi-currency Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952)
+
+- [Runtime with orml-tokens and orml-currencies included](multi-currency-support-challenge)
+
+### Challenge 13
+
+- []()
+
+- []()
+
+### Challenge 14
+
+- []()
+
+- []()
+
+### Challenge 15
+
+- []()
+
+- []()
+
+### Challenge 16
+
+- []()
+
+- []()
+
+### Challenge 17
+
+- []()
+
+- []()
+
+### Challenge 18
+
+- []()
+
+- []()
+
 -----------------------------------------
 
 ![](https://user-images.githubusercontent.com/48550657/95865108-8f7b9b80-0d66-11eb-97c5-e52360f196f8.png)

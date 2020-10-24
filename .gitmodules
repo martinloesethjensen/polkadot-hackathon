@@ -1,0 +1,12 @@
+[submodule "multi-currency-support-challenge/substrate-node-multi-currency"]
+	path = multi-currency-support-challenge/substrate-node-multi-currency
+	url = https://github.com/martinloesethjensen/substrate-node-multi-currency.git
+[submodule "nft-support-challenge/substrate-node-nft"]
+	path = nft-support-challenge/substrate-node-nft
+	url = https://github.com/martinloesethjensen/substrate-node-nft.git
+[submodule "front-end-js-challenge/substrate-block-info"]
+	path = front-end-js-challenge/substrate-block-info
+	url = https://github.com/martinloesethjensen/substrate-block-info.git
+[submodule "erc20-smart-contract-with-ink/substrate-node"]
+	path = erc20-smart-contract-with-ink/substrate-node
+	url = https://github.com/martinloesethjensen/substrate-node.git
