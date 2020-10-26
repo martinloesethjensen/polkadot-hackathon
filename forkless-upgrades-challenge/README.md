@@ -6,6 +6,6 @@ The reason for the error is that the [API and node does not match 100%](https://
 
 Hence the node could not parse the data.
 
-So, I finished the tutorial and then in the end changed `spec_name` for the screenshot proof. 
+So, I finished the tutorial and then in the end changed `spec_name` for the screenshot proof.
 
 ![forkless upgrade](forkless-upgrade.png)
