@@ -88,15 +88,15 @@
 
 ### Challenge 13
 
-- []()
+- [[ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/3/100023962)
 
-- []()
+- [Moonbeam MetaMask + Remix](moonbeam-metamask-remix)
 
 ### Challenge 14
 
-- []()
+- [[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953)
 
-- []()
+- [Moonbeam with Truffle](moonbeam-truffle)
 
 ### Challenge 15
 
