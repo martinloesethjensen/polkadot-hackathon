@@ -20,6 +20,8 @@ Clone [polkadot repo](https://github.com/paritytech/polkadot) and run local kusa
 
 Clone [sidecar repo](https://github.com/paritytech/substrate-api-sidecar) and run local sidecar instance as seen below.
 
+> Update `.env.docker` with this added `SAS_SUBSTRATE_WS_URL=wss://kusama-rpc.polkadot.io` to it. This is because we will use the Kusama network.
+
 ![local sidecar instance running](images/local-sidecar-instance.png)
 
 ## Running Script
