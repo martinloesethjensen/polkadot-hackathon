@@ -124,7 +124,7 @@
 
 -----------------------------------------
 
-![](https://user-images.githubusercontent.com/48550657/95865108-8f7b9b80-0d66-11eb-97c5-e52360f196f8.png)
+![hello world by polkadot](https://user-images.githubusercontent.com/48550657/95865108-8f7b9b80-0d66-11eb-97c5-e52360f196f8.png)
 
 ## [Hello World! by Polkadot](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)
 

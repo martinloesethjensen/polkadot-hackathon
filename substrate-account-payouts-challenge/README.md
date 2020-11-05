@@ -14,13 +14,21 @@ Provide a link to a Gist or Github repository that demonstrates a script to calc
 
 Clone [polkadot repo](https://github.com/paritytech/polkadot) and run local kusama node as seen below.
 
+Run with Kusama
+
+```shell
+./target/release/polkadot --chain=kusama
+```
+
 ![local kusama node running](images/local-kusama-node.png)
 
 ## Start a Local Sidecar Instance
 
 Clone [sidecar repo](https://github.com/paritytech/substrate-api-sidecar) and run local sidecar instance as seen below.
 
-> Update `.env.docker` with this added `SAS_SUBSTRATE_WS_URL=wss://kusama-rpc.polkadot.io` to it. This is because we will use the Kusama network.
+As I ran it with Docker, then we need to update `.env.docker` with this added `SAS_SUBSTRATE_WS_URL=wss://kusama-rpc.polkadot.io` to it. This is because we will use the Kusama network.
+
+> Follow this section on [how to build and run Sidecar with Docker](https://github.com/paritytech/substrate-api-sidecar#docker).
 
 ![local sidecar instance running](images/local-sidecar-instance.png)
 
