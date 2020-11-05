@@ -100,9 +100,9 @@
 
 ### Challenge 15
 
-- []()
+- [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931)
 
-- []()
+- [Substrate Account Payouts Challenge](substrate-account-payouts-challenge)
 
 ### Challenge 16
 
