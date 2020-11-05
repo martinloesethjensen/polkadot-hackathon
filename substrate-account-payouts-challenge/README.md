@@ -1,5 +1,11 @@
-A simple command-line application.
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
 # 🧑‍💻 [ADVANCED CHALLENGE] REST APIs - Read an account's pending payouts
+
+## Submission Requirements
+
+Provide a link to a Gist or Github repository that demonstrates a script to calculate pending payouts by sending HTTP requests to a local Sidecar instance.
+
+## Submission
+
+[Script directory](dart_script)
+
+[Gist of dart script](https://gist.github.com/martinloesethjensen/42bae400485d772587504e1efbeefa70)
