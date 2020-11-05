@@ -1,9 +1,10 @@
-# A simple command-line application.
+# Dart Script
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Script to calculate pending payouts by sending HTTP requests to a local Sidecar instance.
 
 ## Running the script
+
+> Have [dart](https://dart.dev/get-dart) installed
 
 ### Without args
 
