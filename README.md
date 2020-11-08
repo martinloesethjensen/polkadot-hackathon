@@ -106,9 +106,9 @@
 
 ### Challenge 16
 
-- []()
+- [[INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/10/100023936)
 
-- []()
+- [Frame Identity Challenge](frame-identity-challenge)
 
 ### Challenge 17
 
