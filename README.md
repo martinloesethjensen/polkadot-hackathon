@@ -112,9 +112,9 @@
 
 ### Challenge 17
 
-- []()
+- [[INTERMEDIATE CHALLENGE] FRAME Development](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933)
 
-- []()
+- [Frame Development Challenge](frame-development-challenge)
 
 ### Challenge 18
 
