@@ -118,7 +118,7 @@
 
 ### Challenge 18
 
-- []()
+- [[INTERMEDIATE CHALLENGE] FRAME Multisig](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934)
 
 - []()
 
