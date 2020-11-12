@@ -122,11 +122,13 @@
 
 - [Running Local Phala Network Challenge](run-local-phala-network-challenge)
 
+<!--
 ### Challenge 19
 
 - [[INTERMEDIATE CHALLENGE] FRAME Multisig](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934)
 
 - [Frame Multisig Challenge](frame-multisig-challenge)
+-->
 
 -----------------------------------------
 

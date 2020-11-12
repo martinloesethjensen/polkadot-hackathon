@@ -20,6 +20,10 @@ Follow our [Tutorial](https://wiki.phala.network/en-us/docs/) for detailed instr
 
 ## Submission
 
-![terminal windows running phala-node, pruntime, and phost](images/)
+![terminal windows running phala-node, pruntime, and phost](images/proof-1.png)
 
-![user-issued secret token](images/)
+![phala ui](images/proof-2.png)
+
+![user-issued secret token](images/proof-3.png)
+
+[Link to tweet](https://twitter.com/martin__jensen/status/1326996059458039809)
