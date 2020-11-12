@@ -18,85 +18,85 @@
 
 - [[BEGINNER CHALLENGE] Deploying Solidity Contract On Plasm Network V1](https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/6/100023960)
 
-- [Solidity Contract on Plasm Network](plasm-network-contract)
+- [Solidity Contract on Plasm Network Challenge](plasm-network-contract)
 
 ### Challenge 2
 
 - [[BEGINNER CHALLENGE] Launch A Local Substrate Development Chain](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17/100023943)
 
-- [Local Substrate Development Chain](local-substrate-development-chain)
+- [Local Substrate Development Chain Challenge](local-substrate-development-chain)
 
 ### Challenge 3
 
 - [[BEGINNER CHALLENGE] Run A Private Substrate Network](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942)
 
-- [Private Substrate Network](run-private-substrate-network)
+- [Running a Private Substrate Network Challenge](run-private-substrate-network)
 
 ### Challenge 4
 
 - [[BEGINNER CHALLENGES] Play With Westend](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941)
 
-- [Westend](westend)
+- [Westend Challenge](westend)
 
 ### Challenge 5
 
 - [[BEGINNER CHALLENGES] Front-End Javascript](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940)
 
-- [Front-end js submission README](front-end-js-challenge/README.md)
+- [Front-End JS Challenge](front-end-js-challenge/README.md)
 
 ### Challenge 6
 
 - [[BEGINNER CHALLENGES] Back-End Javascript](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/13/100023939)
 
-- [Back-end js submission](back-end-js-challenge)
+- [Back-End JS Challenge](back-end-js-challenge)
 
 ### Challenge 7
 
 - [[BEGINNER CHALLENGE] Run A Kusama Or Polkadot Node And Add It To Telemetry](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938)
 
-- [Kusama telemetry](kusama-telemetry)
+- [Kusama telemetry Challenge](kusama-telemetry)
 
 ### Challenge 8
 
 - [[BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937)
 
-- [Identity on Kusama dev](identity-on-kusama-development-version)
+- [Setting an Identity on Kusama Development Version Challenge](identity-on-kusama-development-version)
 
 ### Challenge 9
 
 - [[INTERMEDIATE CHALLENGE] Forkless Upgrades](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932)
 
-- [Forkless Upgrade submission](forkless-upgrades-challenge)
+- [Forkless Upgrade Challenge](forkless-upgrades-challenge)
 
 ### Challenge 10
 
 - [[ECOSYSTEM CHALLENGE] Enable NFT Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951)
 
-- [Runtime with orml-nft included](nft-support-challenge)
+- [Runtime with `orml-nft` Included Challenge](nft-support-challenge)
 
 ### Challenge 11
 
 - [[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935)
 
-- [ERC20 Smart Contract with Ink!](erc20-smart-contract-with-ink)
+- [ERC20 Smart Contract with Ink! Challenge](erc20-smart-contract-with-ink)
 
 ### Challenge 12
 
 - [[ECOSYSTEM CHALLENGE] Enable Multi-currency Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952)
 
-- [Runtime with orml-tokens and orml-currencies included](multi-currency-support-challenge)
+- [Runtime with `orml-tokens` and `orml-currencies` Included Challenge](multi-currency-support-challenge)
 
 ### Challenge 13
 
 - [[ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/3/100023962)
 
-- [Moonbeam MetaMask + Remix](moonbeam-metamask-remix)
+- [Moonbeam MetaMask + Remix Challenge](moonbeam-metamask-remix)
 
 ### Challenge 14
 
 - [[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953)
 
-- [Moonbeam with Truffle](moonbeam-truffle)
+- [Moonbeam with Truffle Challenge](moonbeam-truffle)
 
 ### Challenge 15
 
