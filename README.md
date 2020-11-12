@@ -118,6 +118,12 @@
 
 ### Challenge 18
 
+- [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945)
+
+- [Running Local Phala Network Challenge](run-local-phala-network-challenge)
+
+### Challenge 19
+
 - [[INTERMEDIATE CHALLENGE] FRAME Multisig](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934)
 
 - [Frame Multisig Challenge](frame-multisig-challenge)
