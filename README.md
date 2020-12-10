@@ -16,11 +16,15 @@
 
 ### Challenge 1
 
+Completed: 
+
 - [[BEGINNER CHALLENGE] Deploying Solidity Contract On Plasm Network V1](https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/6/100023960)
 
 - [Solidity Contract on Plasm Network Challenge](plasm-network-contract)
 
 ### Challenge 2
+
+Completed: 
 
 - [[BEGINNER CHALLENGE] Launch A Local Substrate Development Chain](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17/100023943)
 
@@ -28,11 +32,15 @@
 
 ### Challenge 3
 
+Completed: 
+
 - [[BEGINNER CHALLENGE] Run A Private Substrate Network](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942)
 
 - [Running a Private Substrate Network Challenge](run-private-substrate-network)
 
 ### Challenge 4
+
+Completed: 
 
 - [[BEGINNER CHALLENGES] Play With Westend](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941)
 
@@ -40,11 +48,15 @@
 
 ### Challenge 5
 
+Completed: 
+
 - [[BEGINNER CHALLENGES] Front-End Javascript](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940)
 
 - [Front-End JS Challenge](front-end-js-challenge/README.md)
 
 ### Challenge 6
+
+Completed: 
 
 - [[BEGINNER CHALLENGES] Back-End Javascript](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/13/100023939)
 
@@ -52,11 +64,15 @@
 
 ### Challenge 7
 
+Completed: 
+
 - [[BEGINNER CHALLENGE] Run A Kusama Or Polkadot Node And Add It To Telemetry](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938)
 
 - [Kusama telemetry Challenge](kusama-telemetry)
 
 ### Challenge 8
+
+Completed: 
 
 - [[BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937)
 
@@ -64,11 +80,15 @@
 
 ### Challenge 9
 
+Completed: 21st of October 2020
+
 - [[INTERMEDIATE CHALLENGE] Forkless Upgrades](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932)
 
 - [Forkless Upgrade Challenge](forkless-upgrades-challenge)
 
 ### Challenge 10
+
+Completed: 24th of October 2020
 
 - [[ECOSYSTEM CHALLENGE] Enable NFT Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951)
 
@@ -76,11 +96,15 @@
 
 ### Challenge 11
 
+Completed: 19th of October 2020
+
 - [[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935)
 
 - [ERC20 Smart Contract with Ink! Challenge](erc20-smart-contract-with-ink)
 
 ### Challenge 12
+
+Completed: 24th of October 2020
 
 - [[ECOSYSTEM CHALLENGE] Enable Multi-currency Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952)
 
@@ -88,11 +112,15 @@
 
 ### Challenge 13
 
+Completed: 26th of October 2020
+
 - [[ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/3/100023962)
 
 - [Moonbeam MetaMask + Remix Challenge](moonbeam-metamask-remix)
 
 ### Challenge 14
+
+Completed: 27th of October 2020
 
 - [[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953)
 
@@ -100,11 +128,15 @@
 
 ### Challenge 15
 
+Completed: 6th of November 2020
+
 - [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931)
 
 - [Substrate Account Payouts Challenge](substrate-account-payouts-challenge)
 
 ### Challenge 16
+
+Completed: 8th of November 2020
 
 - [[INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/10/100023936)
 
@@ -112,11 +144,15 @@
 
 ### Challenge 17
 
+Completed: 11th of November 2020
+
 - [[INTERMEDIATE CHALLENGE] FRAME Development](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933)
 
 - [Frame Development Challenge](frame-development-challenge)
 
 ### Challenge 18
+
+Completed: 12th of November 2020
 
 - [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945)
 
